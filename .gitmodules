@@ -1,0 +1,6 @@
+[submodule "winja-talks"]
+	path = winja-talks
+	url = https://github.com/Winja-Events/winja-talks.git
+[submodule "Quiz"]
+	path = Quiz
+	url = https://github.com/Winja-Events/Quiz.git
